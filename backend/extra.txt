@@ -1,0 +1,11 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5NWUwZDhhNTYxYjY2Y2Y0ODgyNTM1NSIsImVtYWlsIjoibWFub2pwb29qYXJpMTUxMS5jb20iLCJpYXQiOjE3Njc3NzE2MTZ9.pVOeZvjubftf6NESLXfm-rf8mj8B2BMIT44SltazppA",
+    "user": {
+        "_id": "695e0d8a561b66cf48825355",
+        "name": "Manoj",
+        "email": "manojpoojari1511.com",
+        "password": "$2b$10$WydazMYukF0SpSHDl9hjk.2FvpxoPnnr988BAEWf1q.envPDgBsYS",
+        "role": "user",
+        "__v": 0
+    }
+}

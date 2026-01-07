@@ -204,20 +204,6 @@ Includes:
 
 ---
 
-## 🌐 Deployment
-
-### Frontend → Vercel
-```
-vercel deploy
-```
-
-### Backend → Render / Railway
-Start command:
-
-```
-node src/server.js
-```
-
 ---
 
 ## 👨🏻‍💻 Author
